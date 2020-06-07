@@ -2,6 +2,7 @@ html,body{
     background-color: white;
     margin: 0;
     padding: 0;
+    height: 100%
 
 }
 header{
@@ -66,7 +67,7 @@ li.nav-links a:hover {
   .form #form-search{
       padding: 0 8px;
   }
-  #button{
+  .button{
       text-align: center;
       padding-top: 30px;
       margin-bottom: 300px;
@@ -104,6 +105,10 @@ li.nav-links a:hover {
     padding-bottom: 2px;
      
   }
+  .footer-left {
+    text-align: center;
+    margin: auto; 
+    padding-top: 10px;
   #logo{
     padding: 0;
   }
